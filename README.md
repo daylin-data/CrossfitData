@@ -16,7 +16,7 @@ As someone who enjoys CrossFit, I wanted to use a topic that interests me while 
 
 ## Data Source
 
-I picked up the most put together crossfit dataset I could find from Kaggle. You can check it out here. Thanks to SOMEONE for putting that together!
+I picked up the most put together crossfit dataset I could find from Kaggle. You can check it out [here](https://www.kaggle.com/datasets/tgomesjuliana/crossfit-games). Thanks to @tgomesjuliana for putting that together!
 
 ## Tools Used
 
