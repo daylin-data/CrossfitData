@@ -12,7 +12,6 @@ As someone who enjoys CrossFit, I wanted to use a topic that interests me while 
 - Practice using Jupyter Notebooks
 - Explore trends and patterns in CrossFit data
 - Create visualizations to better understand the dataset
-- Build a complete analysis project from start to finish
 
 ## Data Source
 
@@ -23,8 +22,5 @@ I picked up the most put together crossfit dataset I could find from Kaggle. You
 - Python
 - Jupyter Notebook
 - Pandas
-- NumPy
-- Matplotlib
-- Seaborn
 
 ## Project Structure
